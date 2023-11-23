@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="api">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../jacoco/doc/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../jacoco/doc/examples/build/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../jacoco/doc/examples/build/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
